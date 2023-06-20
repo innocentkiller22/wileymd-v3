@@ -4,17 +4,17 @@ import { fileURLToPath } from 'url'
 
 
 //Numbers
-global.botnumber = '919×××××××××'
-global.ownernumber = '919×××××××××'
+global.botnumber = '919711908216'
+global.ownernumber = '919711908216'
 
 //Names
-global.ownername = 'TeDevelopers'
-global.botname = 'Wiley-md v3'
-global.bname = 'Wiley-MD'
+global.ownername = 'Devs'
+global.botname = 'chiku-MD'
+global.bname = 'chiku-MD'
 
 //watermark
-global.stkpack = 'wiley-md'
-global.stkowner = 'TeDeveloper'
+global.stkpack = 'chiku-MD'
+global.stkowner = 'DevS'
 
 //Links
 global.grouplink = 'https://instagram.com/error.mods'
